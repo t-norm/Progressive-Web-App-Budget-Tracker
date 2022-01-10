@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/badge/Skillset-PWA-blue?style=plastic" />
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Made%20With-X-blue?style=plastic" />
+    <img src="https://img.shields.io/badge/Made%20With-MongoDB-blue?style=plastic" />
+    <img src="https://img.shields.io/badge/Made%20With-Mongoose-blue?style=plastic" />
 </p>
 
 # Description:
